@@ -1,23 +1,36 @@
-<!-- this is a file created with a youtube video -->
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Faisal Ibrahim</title>
-        <link rel="stylesheet" type="text/css" href="css/app.css">
+        <title></title>
+        <style>
+            * {
+                margin: 0;
+                padding: 0%;
+            }
+            #map {
+                height: 500px;
+                width: 100%;
+            }
+        </style>
     </head>
     <body>
-       <h1>
-           This is my new cat
-       </h1>
-       <!-- just a single photo -->
-       <img src="images/175_Internet_Explorer-512.png" alt="">
-       <button>
-           Get next photo
-       </button>
-       <p>
-        She currently has no name
-       </p>
-       
 
+        <div id = "map"></div>
+
+        <script>
+            function initMap() {
+                var location = {lat: 40.712776, lng: -74.005974};
+                var map = new google.maps.Map(document.getElementById("map"),{
+                    zoom: 4,
+                    center: location                    
+                });
+                var marker = new google.maps.Marker({
+                    position: location,
+                    map: map
+                });
+            }
+        </script>
+        <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAY9nQkpYfky3miQrjioPAGjbpYo8ifhT8&callback=initMap">
+        </script>
     </body>
 </html>
