@@ -31,7 +31,7 @@
     $(document).ready(function () {
         $('#load_data').click(function () {
             $.ajax({
-                url: "employee.csv",
+                url: "/csv-data/employee.csv",
                 dataType: "text",
                 success: function (data) {
                     var employee_data = data.split(/\r?\n|\r/);
