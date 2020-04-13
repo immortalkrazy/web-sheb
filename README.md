@@ -3,10 +3,25 @@
  1. http://www.faisal-ibrahim.com
  1. http://www.HeemsResources.com
 
-Thsse
-Ported from original repos for python 3
-https://github.com/toddmedema/echo
-https://github.com/xtacocorex/CHIP_IO 
+These are the two sites I created under this project.
+
+## Purpose:
+
+1. Low-cost, self-maintained data parsing server.
+2. Which can do data acces from internet.
+3. Do data manipulation
+4. Host a web app/site to present that data.
+5. Use third party APIs
+
+1. Download "win32diskimager-1.0.0-install.exe" program from following URL
+  https://sourceforge.net/projects/win32diskimager/files/latest/download
+
+1. Install "win32diskimager-1.0.0-install.exe"
+
+1. Connect mini-sd card to a computer. In windows explorer right click your sd card drive letter and click on format menu.
+  In format window select "FAT" in "File System" list and click start. Wait for the task to complete.
+  
+    ![alt text](https://raw.githubusercontent.com/nassiramalik/IOT-Pi3-Alexa-Automation/master/images/formatsdcard.jpg)
 
 ## Instructions:
 
@@ -20,9 +35,7 @@ https://github.com/xtacocorex/CHIP_IO
 
 1. Connect mini-sd card to a computer. In windows explorer right click your sd card drive letter and click on format menu.
   In format window select "FAT" in "File System" list and click start. Wait for the task to complete.
-  
-    ![alt text](https://raw.githubusercontent.com/nassiramalik/IOT-Pi3-Alexa-Automation/master/images/formatsdcard.jpg)
-  
+
 1. Launch "win32diskimager" program. Select image file "2017-04-10-raspbian-jessie.img" and your sd card drive letter and click "Write"
   (Wait for program to finish writing REAPBIAN image to the sd card)
       
