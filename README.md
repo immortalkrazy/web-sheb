@@ -75,9 +75,10 @@ These are the two sites I created under this project.
    - GOOGLE MAPS IS INTEGRATED
    - FOR STATE COVID-19 DATA CLICK ON THE NAME
    - CLICK ON 'LOAD DATA'
+   - WEB SCREEONSHOTS
    <img src = "Screenshots/site-index.png" width=800>
    <img src = "Screenshots/NY-data-page.png" width=800>
-
+   
 6. **USEFUL LINKS & THANKS TO:**
    - https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax
    - https://www.youtube.com/watch?v=R6euByfGaN4&list=PLcNBi9bxhz4CKsltxGPZd5KGov4vHWCMy&index=15&t=0s
