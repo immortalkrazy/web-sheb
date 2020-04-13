@@ -17,7 +17,7 @@ These are the two sites I created under this project.
 
 ## Project Structure:
 
-1. SERVER SETUP (back-end)
+1. SERVER SETUP (back-end) 
    - HARDWARE
      - RASPBERRY PI
      - ROUTER
@@ -34,7 +34,9 @@ These are the two sites I created under this project.
    - ACCOUNT SETUP
      - DOMAIN NAME CREATION
      - API FOR HOSTING SITE ON DNS
-     - AUTO UPDATE IP ADDRESS     
+     - AUTO UPDATE IP ADDRESS 
+     <img src = "Screenshots/lamp.png" width=200>
+     
 
 2. WEB ACCESS / DATA RETRIEVEL
    - API
