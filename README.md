@@ -75,6 +75,8 @@ These are the two sites I created under this project.
    - GOOGLE MAPS IS INTEGRATED
    - FOR STATE COVID-19 DATA CLICK ON THE NAME
    - CLICK ON 'LOAD DATA'
+   <img src = "Screenshots/site-index.png" width=800>
+   <img src = "Screenshots/NY-data-page.png" width=800>
 
 6. **USEFUL LINKS & THANKS TO:**
    - https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax
@@ -92,19 +94,3 @@ These are the two sites I created under this project.
    - https://stackoverflow.com
    - https://www.unix.com
    - https://www.thegeekstuff.com/2011/07/bash-for-loop-examples
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
