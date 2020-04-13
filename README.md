@@ -17,7 +17,7 @@ These are the two sites I created under this project.
 
 ## Project Structure:
 
-1. SERVER SETUP (back-end) 
+1. **SERVER SETUP (back-end)** 
    - HARDWARE
      - RASPBERRY PI
      - ROUTER
@@ -36,9 +36,9 @@ These are the two sites I created under this project.
      - API FOR HOSTING SITE ON DNS
      - AUTO UPDATE IP ADDRESS 
      <img src = "Screenshots/domainAPI.png" width=400>
-     <img src = "Screenshots/lamp.png" width=400>
+     <img src = "Screenshots/lamp.png" width=300>
      
-2. WEB ACCESS / DATA RETRIEVEL
+2. **WEB ACCESS / DATA RETRIEVEL**
    - API
      - GOOGLE MAPS
        - ACCOUNT
@@ -47,9 +47,9 @@ These are the two sites I created under this project.
      - GIT
        - CLONE
        - AUTO UPDATE
-3. DATA MANIPULATION
+3. **DATA MANIPULATION**
 
-4. WEB APP/SITE (front-end) 
+4. **WEB APP/SITE (front-end)** 
 
 1. Download "RASPBIAN STRETCH WITH DESKTOP" and unzip "2017-04-10-raspbian-jessie.zip"
   https://www.raspberrypi.org/downloads/raspbian/
