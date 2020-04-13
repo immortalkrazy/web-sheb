@@ -44,12 +44,16 @@ These are the two sites I created under this project.
        - ACCOUNT
        - API KEY SETUP
    - DATA RETRIEVEL
+     - THE NEW YORK TIMES (git repo)
+       - https://github.com/nytimes/covid-19-data
      - GIT
        - CLONE
        - AUTO UPDATE
 3. **DATA MANIPULATION**
 
-4. **WEB APP/SITE (front-end)** 
+4. **WEB APP/SITE (front-end)**
+
+5. **USAGE**
 
 1. Download "RASPBIAN STRETCH WITH DESKTOP" and unzip "2017-04-10-raspbian-jessie.zip"
   https://www.raspberrypi.org/downloads/raspbian/
