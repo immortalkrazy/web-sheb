@@ -35,9 +35,8 @@ These are the two sites I created under this project.
      - DOMAIN NAME CREATION
      - API FOR HOSTING SITE ON DNS
      - AUTO UPDATE IP ADDRESS 
-     <img src = "Screenshots/lamp.png" width=200>
+     <img src = "Screenshots/domainAPI.png" width=200>
      
-
 2. WEB ACCESS / DATA RETRIEVEL
    - API
      - GOOGLE MAPS
