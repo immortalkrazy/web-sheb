@@ -81,6 +81,7 @@ http://www.HeemsResources.com
    <img src = "Screenshots/NY-data-page.png" width=800>
    
 6. **USEFUL LINKS & THANKS TO:**
+   - https://developers.google.com/maps/documentation/javascript/tutorial
    - https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax
    - https://www.youtube.com/watch?v=R6euByfGaN4&list=PLcNBi9bxhz4CKsltxGPZd5KGov4vHWCMy&index=15&t=0s
    - https://www.youtube.com/watch?v=rhdvQQ54jD8&list=PLcNBi9bxhz4CKsltxGPZd5KGov4vHWCMy&index=2&t=71s
