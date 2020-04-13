@@ -36,6 +36,7 @@ These are the two sites I created under this project.
      - API FOR HOSTING SITE ON DNS
      - AUTO UPDATE IP ADDRESS 
      <img src = "Screenshots/domainAPI.png" width=400>
+     <img src = "Screenshots/lamp.png" width=400>
      
 2. WEB ACCESS / DATA RETRIEVEL
    - API
