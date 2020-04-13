@@ -13,17 +13,37 @@ These are the two sites I created under this project.
 4. Host a web app/site to present that data.
 5. Use third party APIs
 
-1. Download "win32diskimager-1.0.0-install.exe" program from following URL
-  https://sourceforge.net/projects/win32diskimager/files/latest/download
+    ![](images/144_GITLAB-512.png)
+    
 
-1. Install "win32diskimager-1.0.0-install.exe"
+## Project Structure:
 
-1. Connect mini-sd card to a computer. In windows explorer right click your sd card drive letter and click on format menu.
-  In format window select "FAT" in "File System" list and click start. Wait for the task to complete.
-  
-    ![alt text](https://raw.githubusercontent.com/nassiramalik/IOT-Pi3-Alexa-Automation/master/images/formatsdcard.jpg)
+1. SERVER SETUP (back-end)
+   - HARDWARE
+     - RASPBERRY PI
+     - ROUTER
+   - SOFTWARE
+     - APACHE
+     - PHP
+     - MARIA DB
+     - GIT
+     - OTHERS
+   - SECURITY
+     - ACCESS CONTROLS
+     - HEADLESS & PASSWORDLESS SETUP
+     - AUTO UPDATE
+   - ACCOUNT SETUP
+     - DOMAIN NAME CREATION
+     - API FOR HOSTING SITE ON DNS
+     - AUTO UPDATE IP ADDRESS     
 
-## Instructions:
+2. WEB ACCESS / DATA RETRIEVEL
+   - API
+   - DATA RETRIEVEL
+   
+3. DATA MANIPULATION
+
+4. WEB APP/SITE (front-end) 
 
 1. Download "RASPBIAN STRETCH WITH DESKTOP" and unzip "2017-04-10-raspbian-jessie.zip"
   https://www.raspberrypi.org/downloads/raspbian/
