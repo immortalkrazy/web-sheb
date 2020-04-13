@@ -40,6 +40,8 @@ http://www.HeemsResources.com
      - GOOGLE MAPS
        - ACCOUNT
        - API KEY SETUP
+       - .
+       <img src = "Screenshots/map1.png" width=200> <img src = "Screenshots/map2.png" width=200> <img src = "Screenshots/map3.png" width=180>
    - DATA RETRIEVEL
      - THE NEW YORK TIMES (git repo)
        - https://github.com/nytimes/covid-19-data
