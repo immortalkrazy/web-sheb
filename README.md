@@ -13,8 +13,7 @@ These are the two sites I created under this project.
 4. Host a web app/site to present that data.
 5. Use third party APIs
 
-    ![](images/144_GITLAB-512.png)
-    
+![](https://github.com/immortalkrazy/web-sheb/blob/master/images/144_Gitlab-512.png)
 
 ## Project Structure:
 
