@@ -1,10 +1,8 @@
 # web-sheb Project
 
- 1. http://www.HeemsResources.com
+http://www.HeemsResources.com
 
-These are the two sites I created under this project.
-
-<img src = "Screenshots/raspi.jpg" width=200> <img src = "Screenshots/site-index.png" width=320> <img src = "Screenshots/NY-data-page.png" width=320>
+<img src = "Screenshots/raspi.jpg" width=180> <img src = "Screenshots/site-index.png" width=320> <img src = "Screenshots/NY-data-page.png" width=320>
 
 ## Purpose:
 
@@ -76,6 +74,7 @@ These are the two sites I created under this project.
    - FOR STATE COVID-19 DATA CLICK ON THE NAME
    - CLICK ON 'LOAD DATA'
    - WEB SCREEONSHOTS
+   <img src = "Screenshots/cell1.jpg" width=300> <img src = "Screenshots/cell2.jpg" width=300>
    <img src = "Screenshots/site-index.png" width=800>
    <img src = "Screenshots/NY-data-page.png" width=800>
    
