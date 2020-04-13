@@ -5,6 +5,8 @@
 
 These are the two sites I created under this project.
 
+<img src = "Screenshots/raspi.jpg" width=200> <img src = "Screenshots/site-index.png" width=320> <img src = "Screenshots/NY-data-page.png" width=320>
+
 ## Purpose:
 
 1. Low-cost, self-maintained data parsing server.
@@ -12,8 +14,6 @@ These are the two sites I created under this project.
 3. Do data manipulation
 4. Host a web app/site to present that data.
 5. Use third party APIs
-
-![](https://github.com/immortalkrazy/web-sheb/blob/master/images/144_Gitlab-512.png)
 
 ## Project Structure:
 
@@ -38,8 +38,13 @@ These are the two sites I created under this project.
 
 2. WEB ACCESS / DATA RETRIEVEL
    - API
+     - GOOGLE MAPS
+       - ACCOUNT
+       - API KEY SETUP
    - DATA RETRIEVEL
-   
+     - GIT
+       - CLONE
+       - AUTO UPDATE
 3. DATA MANIPULATION
 
 4. WEB APP/SITE (front-end) 
