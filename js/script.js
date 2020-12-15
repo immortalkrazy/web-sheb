@@ -1,2 +1,5 @@
-var mykey = config.MY_KEY;
+import { config } from "./config.js"
+
 var secretkey = config.SECRET_KEY;
+
+export { secretkey};
